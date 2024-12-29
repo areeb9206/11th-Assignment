@@ -1,0 +1,192 @@
+
+
+/* For index Page */
+
+* {
+  background-color: #dcd2c9;
+  margin-left: 5px;
+  margin-right: 5px;
+  font-family: "Poppins", serif;
+  font-weight: 500;
+  font-style: oblique;
+}
+
+.header {
+  text-align: center;
+  font-weight: 700;
+}
+.heading ~ hr {
+  height: 2px;
+  border-color: black;
+  background-color: black;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+
+.heading {
+  font-size: 40px;
+  margin-top: 0%;
+  margin-bottom: 1px;
+}
+
+.article {
+  margin-top: 8px;
+  margin-bottom: 0%;
+}
+
+.author {
+  color: rgb(162, 51, 51);
+  margin-top: 0%;
+  text-decoration: underline;
+}
+
+.container {
+  display: flex;
+}
+
+.first {
+  font-size: larger;
+  flex: 2;
+  margin-right: 0%;
+  width: 20px;
+}
+
+.second {
+  margin-left: 0%;
+  margin-right: 0%;
+  margin-top: 10px;
+  background-color: rgb(100, 100, 100);
+  flex: 2;
+}
+.third {
+  margin-top: 10px;
+  flex: 2;
+}
+
+.second p {
+  margin-top: 0%;
+  margin-bottom: 0%;
+  padding: 5px 20px 10px 20px;
+  text-align: justify;
+}
+
+.third p {
+  text-align: justify;
+  padding: 5px 0px 5px 0px;
+  margin-top: 0%;
+  margin-left: 0%;
+  margin-right: 0%;
+}
+
+.quote {
+  margin-left: 80px;
+}
+
+.container2 {
+  display: flex;
+}
+
+.fourth {
+  flex: 2;
+  width: 20px;
+  text-align: justify;
+  margin-left: 0%;
+  margin-right: 0%;
+}
+.fourth p {
+  margin-top: 0%;
+}
+
+.fifth {
+  background-color: rgb(100, 100, 100);
+  flex: 2;
+  text-align: justify;
+  margin-left: 0%;
+  margin-right: 0%;
+  margin-bottom: 0%;
+}
+
+.fifth p {
+  margin-top: 0%;
+  margin-bottom: 0%;
+  padding: 0px 10px 10px 10px;
+}
+
+.sixth {
+  flex: 2;
+  text-align: justify;
+  margin-left: 0%;
+  margin-right: 0%;
+  display: inline-block;
+}
+
+.sixth p {
+  margin-top: 10px;
+}
+
+.image-fit {
+  display: flex;
+}
+
+img {
+  width: 150px;
+  height: 100px;
+  margin-left: 0%;
+  margin-right: 0%;
+}
+
+.S2 {
+  text-decoration: underline;
+  color: rgb(162, 51, 51);
+  text-align: center;
+  flex: 1;
+  margin-right: 0%;
+  margin-top: 5px;
+  margin-left: 0%;
+}
+
+.S2 p {
+  margin-top: 0%;
+}
+
+.S3 {
+  flex: 2;
+  margin-left: 0%;
+  margin-bottom: 0%;
+  margin-right: 0%;
+}
+
+.S3 p {
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+
+.fourth h3 {
+  text-decoration: underline;
+}
+
+.sub {
+  text-decoration: underline;
+  margin-top: 0%;
+  padding: 5px 5px 5px 5px;
+  margin-bottom: 0%;
+}
+
+sub p {
+  margin-bottom: 0%;
+}
+
+a {
+  color: rgb(26, 26, 203);
+}
+
+a:active {
+  background-color: black;
+  color: white;
+}
+
+li {
+  list-style-type: none;
+}
+
+
